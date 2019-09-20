@@ -8,4 +8,4 @@ Findings :
 - # Python functions and methods used: 
 .savefig(), .text(), .axhline(), .set_yticks(), .tick_params(), .set_title(), .set_ylim(), .set_xlim(), .spines(), .tick_params()
 
-![screenshot](https://github.com/dthatprince/gendergap/blob/master/Screen%20Shot%202019-09-19.png)
+![screenshot](https://github.com/dthatprince/gendergap/blob/master/visualization.png)
